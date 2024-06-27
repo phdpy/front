@@ -1,0 +1,22 @@
+.detail-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .detail-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .detail-container h1 {
+    margin-bottom: 20px;
+  }
+  
+  .detail-container p {
+    margin-bottom: 10px;
+  }
+  
